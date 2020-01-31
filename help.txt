@@ -1,0 +1,4 @@
+Customer Churn Prediction
+
+A bank wants to retain its customers and you have the customers’ demographics such as age, gender & their transaction history. 
+Your task as a data scientist would be to predict which customers will leave the bank.
